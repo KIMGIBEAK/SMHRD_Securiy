@@ -1,6 +1,7 @@
 # SMHRD_Securiy
 # 💙 마이추
-![logo](https://github.com/user-attachments/assets/2e5dc4fa-c345-42c8-ac92-b6891d2fcbfb)
+![logo](![image](https://github.com/user-attachments/assets/05b5979a-e8d8-4e28-b450-4b4ee0ee0b32)
+)
 
 
 ## 👀 서비스 소개

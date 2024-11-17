@@ -1,24 +1,28 @@
 # SMHRD_Securiy
-# 💙 마이추
-![logo](![image](https://github.com/user-attachments/assets/05b5979a-e8d8-4e28-b450-4b4ee0ee0b32)
-)
+# 💙 Se-curiy
+![image](https://github.com/user-attachments/assets/05b5979a-e8d8-4e28-b450-4b4ee0ee0b32)
 
 
 ## 👀 서비스 소개
-* 서비스명 : 마이추
-* 서비스설명: 나만의 추천 영화 서비스
+* 서비스명 : Se-curiy
+* 서비스설명: ELK와 LSTM을 활용한 실시간 네트워크 트래픽 이상 탐지 서비스
 <br>
 
 ## 📅 프로젝트 기간
-2024.07.09 ~ 2024.08.19 (6주)
+2024.09.13~2024.11.13 (9주)
 <br>
 
 ## ⭐ 주요 기능
-* 기능1 회원가입 / 로그인
-* 기능2 좋아요
-* 기능3 게시글 작성
-* 기능4 게시글 순별 및 필터링 검색 
-* 기능5 티켓 만들기
+
+* 기능1 회원가입 및 로그인
+* 기능2 전일 대비 사용률
+* 기능3 그래프 조회 시간 설정
+* 기능4 Traffic, Session 및 Threshold 실시간 그래프
+* 기능5 접속 IP 위치 조회 및 국가별 통계
+* 기능6 이상 탐지시 메일 발송
+* 기능7 AI 학습을 통한 Threshold 예측
+* 기능8 수집 데이터별 일, 주, 월 그래프
+
 <br>
 
 ## ⛏ 기술스택
@@ -49,6 +53,11 @@
         <td>
             <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=ApacheTomcat&logoColor=white"/>
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+            <img src="https://img.shields.io/badge/Logstash-00A637?style=for-the-badge&logo=elastic&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white" />
+            <img src="https://img.shields.io/badge/NAVER_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+        </td>
         </td>
     </tr>
     <tr>
@@ -62,7 +71,6 @@
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
         </td>
     </tr>
 </table>
@@ -71,21 +79,24 @@
 <br>
 
 ## ⚙ 시스템 아키텍처(구조)
-![시스템아키텍처](https://github.com/user-attachments/assets/47741b4a-2fda-4db2-b135-432cd382af5f)
+![image](https://github.com/user-attachments/assets/9151e822-affc-4b9c-87dd-8179da8e6571)
 
 <br>
 
 ## 📌 SW유스케이스
-![유스케이스다이어그램(8 16) drawio](https://github.com/user-attachments/assets/7a92a8c2-c12a-45d4-866b-5906ac726b57)
+![image](https://github.com/user-attachments/assets/9b9672cd-de12-4005-92ef-01a757b6284b)
+
 
 <br>
 
-## 📌 서비스 흐름도
-![검색](https://github.com/user-attachments/assets/095a5f55-432d-4af8-8f86-4f6312898ed1)
+## 📌 플로우차트
+![image](https://github.com/user-attachments/assets/dcaf08c8-a525-4ae5-9863-76a88e4d323b)
+
 <br>
 
 ## 📌 ER다이어그램
-![KakaoTalk_20240819_110030393](https://github.com/user-attachments/assets/883e3430-f352-419c-85da-5c9432667298)
+![image](https://github.com/user-attachments/assets/bf5d358b-babd-478e-ac68-0f81a10b2866)
+
 
 ## 🖥 화면 구성
 

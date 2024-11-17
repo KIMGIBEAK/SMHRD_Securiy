@@ -101,21 +101,24 @@
 ## 🖥 화면 구성
 
 ### 로그인 / 회원가입
-![image](https://github.com/user-attachments/assets/11c5b202-e33b-4aa2-86e9-dc9d1c1ec049)
-![회원가입, 로그인](https://github.com/user-attachments/assets/f74bb6a7-2198-4e06-a179-930916be263d)
+![image](https://github.com/user-attachments/assets/46695db9-02af-4151-a5e4-390feb2e5d03)
+
+![image](https://github.com/user-attachments/assets/913bb38b-6d0c-4067-b8f2-38eb1ccbff53)
 
 
-### 홈 / 검색 / 게시글 작성 및 수정
-![홈, 검색, 글쓰기 및 수정](https://github.com/user-attachments/assets/4b7c9ae1-0994-4969-bccb-f8055692c6f0)
 
-### 게시글 상세페이지
-![제목 없는 디자인 (1)](https://github.com/user-attachments/assets/a2b523ac-477b-4bb7-9944-e07aa49e9773)
+### 메인페이지
+![image](https://github.com/user-attachments/assets/73176a65-d1a8-495c-bc36-924eecd1fbd8)
+
+![image](https://github.com/user-attachments/assets/5fd8918e-ee3d-4fad-a227-931e85165448)
 
 
-### 마이페이지 / 타회원 프로필 페이지
-![제목 없는 디자인](https://github.com/user-attachments/assets/00c486ba-c7dc-4267-ba9b-29f706f0d0b0)
-<br>
-![제목 없는 디자인](https://github.com/user-attachments/assets/878ad4df-2e96-446d-9a82-d3af1fab0671)
+### 상세페이지
+![image](https://github.com/user-attachments/assets/97b709b3-0b13-4ea7-9b5d-12233d2000d6)
+
+### 회원정보수정
+![image](https://github.com/user-attachments/assets/60ed9b69-e647-4464-a084-09e8c420521b)
+
 
 <br>
 
@@ -125,25 +128,25 @@
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/175311996?s=400&u=f0e99fe889ba4d419311a51727e2dcd234f5a264&v=4" width="100" height="100"/></td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_dq4JXfpYKahRBXkcjkmrcj0_-CPhn-HAA&s" width="100" height="100"/></td>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
+    <td align="center"> <img src="https://github.com/user-attachments/assets/0d20e686-b1ed-4784-9937-2218ea560a7b" width="100" height="100"/></td>
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
   </tr>
   <tr>
     <td align="center"><strong>팀장<br>유세찬</strong></td>
-    <td align="center"><strong>강다은</strong></td>
+    <td align="center"><strong>김준서</strong></td>
     <td align="center"><strong>구수정</strong></td>
     <td align="center"><strong>김기백</strong></td>
-    <td align="center"><strong>박경록</strong></td>
-    <td align="center"><strong>우병현</strong></td>
+    <td align="center"><strong>지연주</strong></td>
+    <td align="center"><strong>송창희</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Front<br>Backend</b></td>
-    <td align="center"><b>Front</b></td>
-    <td align="center"><b>기획·프로젝트PPT<br>Frontend</b></td>
-    <td align="center"><b>Front</b></td>
-    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>PM<br>ELK/SERVER</b></td>
     <td align="center"><b>Backend<br>Data Base</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend<br>ELK/SERVER</b></td>
+    <td align="center"><b>Backend<br>Frontend</b></td>
+    <td align="center"><b>AI학습</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
